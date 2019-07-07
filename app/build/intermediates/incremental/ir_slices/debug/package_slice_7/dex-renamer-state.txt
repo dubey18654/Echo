@@ -1,0 +1,4 @@
+#Sun Jun 23 12:54:47 IST 2019
+base.0=C\:\\Users\\ABHISHEK DUBEY\\Downloads\\Compressed\\Echo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
